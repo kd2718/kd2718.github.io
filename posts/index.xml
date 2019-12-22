@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Let&#39;s Impute</title>
+    <link>http://example.org/posts/</link>
+    <description>Recent content in Posts on Let&#39;s Impute</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 21 Dec 2019 21:50:59 -0800</lastBuildDate>
+    
+	<atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Count on It</title>
+      <link>http://example.org/posts/count-on-it/</link>
+      <pubDate>Sat, 21 Dec 2019 21:50:59 -0800</pubDate>
+      
+      <guid>http://example.org/posts/count-on-it/</guid>
+      <description>1, NaN, 3 Hi, my name is Kory and this is my blog. I enjoy python and data science and I wanted to share that joy with all of you. If you like what I have to say, feel free to send an email. Outside of data science, I am a husbad, father and sci-fi junkie.
+Impute? In data scince, there are times when you need to fill in a missing value.</description>
+    </item>
+    
+  </channel>
+</rss>
