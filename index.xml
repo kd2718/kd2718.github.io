@@ -6,6 +6,7 @@
     <description>Recent content on Let&#39;s Impute</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>© 2020 | Contact::&lt;a href=&#34;mailto:koryd2718@gmail.com&#34;&gt; koryd2718@gmail.com&lt;/a&gt;</copyright>
     <lastBuildDate>Tue, 31 Dec 2019 19:17:49 -0800</lastBuildDate>
     
 	<atom:link href="https://kd2718.github.io/index.xml" rel="self" type="application/rss+xml" />
@@ -28,6 +29,15 @@
       <guid>https://kd2718.github.io/posts/count-on-it/</guid>
       <description>1, NaN, 3 Hi, my name is Kory and this is my blog. I enjoy python and data science and I wanted to share that joy with all of you. If you like what I have to say, feel free to send an email. Outside of data science, I am a husbad, father and sci-fi junkie.
 Impute? In data scince, there are times when you need to fill in a missing value.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://kd2718.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kd2718.github.io/about/</guid>
+      <description>Hello there. I am Kory Donati, a husband, father and data science nerd. I am writing this blog because I wanted to have a name for myself in the data science community. When I am not spending time with my family, I love to read Sci-Fi books, watch movies and play videogames. I have a job working on the data team for a local school district. I also work for a bootcamp where I mentor students studying to be their own data scientists.</description>
     </item>
     
   </channel>

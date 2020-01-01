@@ -6,9 +6,29 @@
     <description>Recent content in Categories on Let&#39;s Impute</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>© 2020 | Contact::&lt;a href=&#34;mailto:koryd2718@gmail.com&#34;&gt; koryd2718@gmail.com&lt;/a&gt;</copyright>
+    <lastBuildDate>Sat, 21 Dec 2019 21:50:59 -0800</lastBuildDate>
     
 	<atom:link href="https://kd2718.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Data Science</title>
+      <link>https://kd2718.github.io/categories/data-science/</link>
+      <pubDate>Sat, 21 Dec 2019 21:50:59 -0800</pubDate>
+      
+      <guid>https://kd2718.github.io/categories/data-science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Getting Started</title>
+      <link>https://kd2718.github.io/categories/getting-started/</link>
+      <pubDate>Sat, 21 Dec 2019 21:50:59 -0800</pubDate>
+      
+      <guid>https://kd2718.github.io/categories/getting-started/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
