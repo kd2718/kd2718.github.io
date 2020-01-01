@@ -6,10 +6,19 @@
     <description>Recent content on Let&#39;s Impute</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 21 Dec 2019 21:50:59 -0800</lastBuildDate>
+    <lastBuildDate>Tue, 31 Dec 2019 19:17:49 -0800</lastBuildDate>
     
 	<atom:link href="https://kd2718.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Happy 2020</title>
+      <link>https://kd2718.github.io/posts/happy-2020/</link>
+      <pubDate>Tue, 31 Dec 2019 19:17:49 -0800</pubDate>
+      
+      <guid>https://kd2718.github.io/posts/happy-2020/</guid>
+      <description>Happy New Year 2020 New year and a new blog. lookingforward to seeing what comes this year in the relm of Data Science and more&amp;hellip;</description>
+    </item>
     
     <item>
       <title>Count on It</title>
