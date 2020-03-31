@@ -1,25 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Let&#39;s Impute</title>
-    <link>https://kd2718.github.io/posts/</link>
-    <description>Recent content in Posts on Let&#39;s Impute</description>
+    <title>Hi on Let&#39;s Impute</title>
+    <link>https://kd2718.github.io/tags/hi/</link>
+    <description>Recent content in Hi on Let&#39;s Impute</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© 2020 | Contact::&lt;a href=&#34;mailto:koryd2718@gmail.com&#34;&gt; koryd2718@gmail.com&lt;/a&gt;</copyright>
-    <lastBuildDate>Tue, 31 Dec 2019 19:17:49 -0800</lastBuildDate>
+    <lastBuildDate>Sat, 21 Dec 2019 21:50:59 -0800</lastBuildDate>
     
-	<atom:link href="https://kd2718.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://kd2718.github.io/tags/hi/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Happy 2020</title>
-      <link>https://kd2718.github.io/posts/happy-2020/</link>
-      <pubDate>Tue, 31 Dec 2019 19:17:49 -0800</pubDate>
-      
-      <guid>https://kd2718.github.io/posts/happy-2020/</guid>
-      <description>Happy New Year 2020 New year and a new blog. lookingforward to seeing what comes this year in the relm of Data Science and more&amp;hellip;</description>
-    </item>
     
     <item>
       <title>Count on It</title>
